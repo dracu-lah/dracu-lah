@@ -29,7 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dracu-lah&show_icons=true&locale=en&layout=compact" alt="dracu-lah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dracu-lah&show_icons=true&locale=en" alt="dracu-lah" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dracu-lah&show_icons=true&locale=en" alt="dracu-lah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dracu-lah&" alt="dracu-lah" /></p>
 
