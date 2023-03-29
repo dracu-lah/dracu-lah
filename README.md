@@ -8,7 +8,7 @@
 
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
-- 🔭 I’m currently working on [190 python projects](https://github.com/dracu-lah/190-projects-using-python)
+- 🔭 I’m currently working on [ Semester mark management for diploma](https://github.com/dracu-lah/diploma-frontend-react)
 
 - 🌱 I’m currently learning **React, Python**
 
