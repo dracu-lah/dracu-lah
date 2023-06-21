@@ -8,9 +8,9 @@
 
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
-- 🔭 I’m currently working on [ Semester mark management for diploma](https://github.com/dracu-lah/diploma-frontend-react)
+- 🔭 I’m currently working on [ Trello clone using NextJS ](https://github.com/dracu-lah/trello-appwrite-next)
 
-- 🌱 I’m currently learning **React, Python**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [https://nevilportfolio.vercel.app/](https://nevilportfolio.vercel.app/)
 
