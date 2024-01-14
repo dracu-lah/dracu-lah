@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/a/iuMbVww)](https://dracufolio.vercel.app/)
+[![MasterHead](https://imgur.com/aDaoGBr)](https://dracufolio.vercel.app/)
 <h1 align="center">Hi 👋, I'm Nevil krishna k</h1>
 <h3 align="center">A passionate Student from India</h3>
 
