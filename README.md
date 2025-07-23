@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://nevilportfolio.vercel.app/](https://nevilportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://dracufolio.vercel.app](https://dracufolio.vercel.app)
 
 - 📫 How to reach me **nevilkrishna@gmail.com**
 
