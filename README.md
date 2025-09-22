@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on 
   - [ Resumebuilder ](https://resumebuilder.js.org/)
-  - [ Uploaders ]([https://resumebuilder.js.org/](https://www.npmjs.com/package/@dracu/uploaders))
+  - [ Uploaders ](https://www.npmjs.com/package/@dracu/uploaders)
 
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://dracufolio.vercel.app)
 
