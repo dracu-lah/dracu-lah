@@ -8,11 +8,11 @@
 
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
-- 🔭 I’m currently working on [ Trello clone using NextJS ](https://github.com/dracu-lah/trello-appwrite-next)
+- 🔭 I’m currently working on 
+  - [ Resumebuilder ](https://resumebuilder.js.org/)
+  - [ Uploaders ]([https://resumebuilder.js.org/](https://www.npmjs.com/package/@dracu/uploaders))
 
-- 🌱 I’m currently learning **NextJS**
-
-- 👨‍💻 All of my projects are available at [https://dracufolio.vercel.app](https://dracufolio.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://dracufolio.vercel.app)
 
 - 📫 How to reach me **nevilkrishna@gmail.com**
 
