@@ -1,42 +1,36 @@
-# ⚡ Nevil Krishna K  
+# Nevil Krishna K  
 
-### Frontend Engineer • React Performance Enthusiast  
+### Frontend Engineer | React.js & Performance Specialist  
 
-I craft fast, scalable, and clean web applications. Passionate about DX, open-source, and squeezing every millisecond out of the frontend.  
-
----
-
-## 🚀 Tech Arsenal  
-
-`React.js` • `Next.js` • `TypeScript` • `Zustand` • `Redux` • `Tailwind CSS` • `Docker` • `Vercel`  
+I build fast, scalable web applications with a strong focus on performance, clean architecture, and developer experience. I enjoy contributing to open source and solving complex frontend challenges.  
 
 ---
 
-## 🔥 Featured Projects  
+## Core Skills  
 
-- 📝 **[Resume Builder](https://dracufolio.vercel.app)** — Generate & export resumes with Next.js + Tailwind  
-- 📦 **Uploaders** — Plug-and-play file uploader components for React  
-
----
-
-## 📊 GitHub Vibes  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dracu-lah&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dracu-lah&theme=tokyonight&hide_border=true" height="180" />
-</p>
+- **Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS  
+- **State Management:** Zustand, Redux  
+- **Tooling & DevOps:** Git, Docker, Vercel, GitHub Actions  
 
 ---
 
-## 🌐 Connect  
+## Projects  
 
-📧 [Email](mailto:nevilkrishna@gmail.com) •  
-💼 [LinkedIn](https://www.linkedin.com/in/nevil-krishna-k-77170222a/) •  
-🌍 [Portfolio](https://dracufolio.vercel.app)  
+- **Resume Builder** — A fast, lightweight resume generator built with Next.js & Tailwind CSS.  
+- **Uploaders** — Reusable, open-source file uploader components for React.  
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dracu-lah&style=for-the-badge&color=blue" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/dracu-lah?style=for-the-badge&color=brightgreen" alt="followers" />
-</p>
+## Writing & Contributions  
+
+- Sharing insights on frontend performance and DX.  
+- Actively building and maintaining reusable React components.  
+- Exploring modern state management and scaling patterns.  
+
+---
+
+## Connect  
+
+- Email: [nevilkrishna@gmail.com](mailto:nevilkrishna@gmail.com)  
+- LinkedIn: [linkedin.com/in/nevil-krishna-k-77170222a](https://www.linkedin.com/in/nevil-krishna-k-77170222a/)  
+- Portfolio: [nevil.dev](https://www.nevil.dev)  
