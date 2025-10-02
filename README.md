@@ -1,31 +1,28 @@
 # Nevil Krishna K  
 
-### Frontend Engineer | React.js & Performance Specialist  
-
-I build fast, scalable web applications with a strong focus on performance, clean architecture, and developer experience. I enjoy contributing to open source and solving complex frontend challenges.  
+<h3 align="center">Frontend Engineer | React.js & Performance Specialist</h3>  
 
 ---
 
-## Core Skills  
+## About Me  
 
-- **Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS  
-- **State Management:** Zustand, Redux  
-- **Tooling & DevOps:** Git, Docker, Vercel, GitHub Actions  
+I build fast, scalable, and clean web applications with a strong focus on performance and developer experience. I also contribute to open-source projects and enjoy working on tools that improve productivity.  
 
 ---
 
 ## Projects  
 
-- **Resume Builder** — A fast, lightweight resume generator built with Next.js & Tailwind CSS.  
-- **Uploaders** — Reusable, open-source file uploader components for React.  
+- [Resume Builder](https://resumebuilder.js.org/) — A fast, lightweight resume generator built with Next.js & Tailwind CSS.  
+- [Uploaders](https://www.npmjs.com/package/@dracu/uploaders) — Reusable, open-source file uploader components for React.  
+- [Portfolio](https://nevil.dev) — My work, experiments, and projects in one place.  
 
 ---
 
-## Writing & Contributions  
+## Skills  
 
-- Sharing insights on frontend performance and DX.  
-- Actively building and maintaining reusable React components.  
-- Exploring modern state management and scaling patterns.  
+**Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS  
+**State Management:** Zustand, Redux  
+**Tooling & DevOps:** Git, Docker, Vercel, GitHub Actions  
 
 ---
 
@@ -33,4 +30,6 @@ I build fast, scalable web applications with a strong focus on performance, clea
 
 - Email: [nevilkrishna@gmail.com](mailto:nevilkrishna@gmail.com)  
 - LinkedIn: [linkedin.com/in/nevil-krishna-k-77170222a](https://www.linkedin.com/in/nevil-krishna-k-77170222a/)  
-- Portfolio: [nevil.dev](https://www.nevil.dev)  
+- Portfolio: [nevil.dev](https://nevil.dev)  
+
+---
