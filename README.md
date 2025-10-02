@@ -38,15 +38,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 </p>
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dracu-lah&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dracu-lah&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dracu-lah&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
