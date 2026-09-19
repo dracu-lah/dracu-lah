@@ -1,73 +1,49 @@
-[![MasterHead](https://i.imgur.com/aDaoGBr.png)](https://nevil.dev)
+[![](https://i.imgur.com/aDaoGBr.png)](https://nevil.dev)
 
-<h1 align="center">Hi, I'm Nevil Krishna K</h1>
-<h3 align="center">Frontend Engineer | React.js & Performance Specialist</h3>
+# Nevil Krishna K
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dracu-lah&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <a href="https://github.com/dracu-lah?tab=followers">
-    <img src="https://img.shields.io/github/followers/dracu-lah?label=Followers&style=flat" alt="Followers"/>
-  </a>
-  <a href="https://github.com/dracu-lah?tab=repositories">
-    <img src="https://img.shields.io/github/stars/dracu-lah?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=yellow" alt="Stars"/>
-  </a>
-</p>
+**Full stack developer in Thrissur, Kerala.** React, Next.js and TypeScript for the web,
+Kotlin for Android. 3+ years shipping production apps.
 
----
+Right now I build [SeatInfo](https://nevil.dev/projects/seatinfo) at Lascade, a seat map
+product that shows what a seat actually looks like before you book it. Next.js on Cloudflare
+Workers, with D1, R2 and Durable Objects behind it.
 
-## 🚀 About Me  
+Open to full time roles, freelance projects and remote contracts across India.
 
-I build **fast, scalable, and clean web applications** with React & Next.js.  
-Focused on **performance, developer experience, and open-source tools**.  
-Check out my portfolio → [nevil.dev](https://nevil.dev)  
+**[nevil.dev](https://nevil.dev)** · [Hire me](https://nevil.dev/hire) · [LinkedIn](https://www.linkedin.com/in/nevilkrishnak) · [X](https://x.com/nevilkrishnak) · [WhatsApp](https://wa.me/919207932070) · nevilkrishna@gmail.com
 
----
+## Projects
 
-## 🔨 Featured Projects  
+| | What it is | Built with |
+| --- | --- | --- |
+| **[TMPlayer](https://tmplayer.org)** | Plays your Telegram videos on an Android TV | Kotlin, Compose, TDLib, Media3 |
+| **[Resume Builder](https://resumebuilder.js.org)** | Free resume builder, runs entirely in the browser | React, TypeScript |
+| **[EmailxSender](https://emailxsender.vercel.app)** | Sends personalised outreach from your own Gmail | Next.js, Gmail API |
+| **[LangSync](https://github.com/dracu-lah/langsync-cli)** | CLI that keeps i18n translation files in sync | Python |
+| **[Image Cropper](https://imagexcropper.netlify.app)** | Upload-and-crop component for shadcn/ui | React, TypeScript |
+| **[dracufolio](https://nevil.dev)** | This portfolio, and the blog behind it | Next.js, Tailwind |
 
-- [Resume Builder](https://resumebuilder.js.org/)  
-  ![Website](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white)  
+## Work
 
-- [Uploaders](https://www.npmjs.com/package/@dracu/uploaders)  
-  ![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB) ![NPM](https://img.shields.io/npm/dw/@dracu/uploaders?color=red)  
+**Lascade LLP**, Full Stack Developer, Nov 2025 to now.
+SeatInfo and FlightPoints. Next.js 16 on Cloudflare Workers through OpenNext, next-intl for
+the languages.
 
-- [Portfolio](https://nevil.dev)  
-  ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000?logo=vercel)  
+**Udyata Information Systems**, Frontend Developer, Jun 2023 to Aug 2025.
+Built the TukTuko admin panel, and self-hosted the OpenStreetMap stack (Nominatim and OSRM)
+so the product stopped paying per map request.
 
----
+## Stack
 
-## 🛠️ Tech Stack  
+React · Next.js · TypeScript · Tailwind · TanStack Query · Zustand · React Native
+Kotlin · Jetpack Compose · Media3
+Node.js · Python · Django · FastAPI
+Cloudflare Workers · D1 · R2 · Vercel · Docker
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
+## Talk to me about
 
----
+Rendering big SVG seat maps without dropping frames, running Next.js on Cloudflare Workers,
+i18n that does not rot, self-hosting maps, and Android TV apps.
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dracu-lah&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dracu-lah&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dracu-lah&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
-## 🤝 Connect with Me  
-
-<p align="left">
-  <a href="https://nevil.dev" target="_blank">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/nevil-krishna-k-77170222a/" target="_blank">LinkedIn</a> •
-  <a href="mailto:nevilkrishna@gmail.com">Email</a>
-</p>
+Malayalam and English.
